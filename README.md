@@ -20,3 +20,5 @@ Ebay : <http://www.ebay.com>
 - [x] item 2
 
 Hie this is my first repository
+
+Welcome to my world, even it's small but strong.
